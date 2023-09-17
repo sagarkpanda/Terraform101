@@ -7,7 +7,7 @@ resource "aws_s3_bucket" "office_backend_state" {
     bucket = "xyz-applications-backend-state-sagar-18thsept"
 
     lifecycle {
-        prevent_destroy = false
+        prevent_destroy = true # make it false to be able to destory S3 bucket
     }
 
 }

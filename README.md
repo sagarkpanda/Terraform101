@@ -1,6 +1,6 @@
 # Infra automation on AWS with Terraform
 <p align="center">
-<img alt="Terraform" width="270px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" /> 
+<img alt="Terraform" width="270px" src="tofu.png" style="padding-right:10px;" /> 
 </p>
 </br>
 <h3> <strong> Read the detailed article on: </strong> </h3> <a href = "https://sagarkrp.medium.com/list/terraform-20b3355e3dbb" target ="_blank"> 

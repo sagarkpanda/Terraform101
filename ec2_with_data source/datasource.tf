@@ -20,6 +20,6 @@ data "aws_ami" "amazon_linux_2023" {
   }
 }
 
-data "aws_ami_ids" "aws_linux_2023_latest_ids" {
-  owners = ["amazon"]
-}
+# data "aws_ami_ids" "aws_linux_2023_latest_ids" {
+#   owners = ["amazon"]
+# }

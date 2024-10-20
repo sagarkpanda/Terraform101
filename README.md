@@ -26,3 +26,7 @@ The core TF workflow consists of three stages:
 <h4> Apply: </h4>
 
 On approval, Terraform performs the proposed operations in the correct order, respecting any resource dependencies. For example, if you update the properties of a VPC and change the number of virtual machines in that VPC, Terraform will recreate the VPC before scaling the virtual machines.
+
+<h4> Destroy: </h4>
+
+Deletes/Removes the resources.
